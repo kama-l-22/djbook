@@ -1,0 +1,19 @@
+
+body{
+    font-size: larger;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+#head{
+    text-align: center;
+    text-decoration: dotted;
+    border: 2px;
+    border-style: dashed;
+    margin-right: 250px;
+    margin-left: 250px;
+    text-decoration: none
+
+}
+a{
+   color: blue;
+   text-decoration:overline;
+}
